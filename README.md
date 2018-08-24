@@ -19,6 +19,11 @@ Some aspects of my preferred stack change so much between projects that they hav
  - UI: [Material-UI](https://material-ui.com/), [Semantic UI](https://semantic-ui.com/)
  - Icons: [Material Design Icons](https://materialdesignicons.com/)
 
+## Prerequisites
+This boilerplate assumes you have the following prerequisites installed and configured:
+ - [Node](https://nodejs.org/en/)
+ - [Yarn](https://yarnpkg.com/en/)
+
 ## Setup
 Clone the repo, install dependencies, and start the project:
 ```
