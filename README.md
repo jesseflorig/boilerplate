@@ -11,7 +11,7 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
  - CSS: [Emotion](https://emotion.sh/)
  - State: [Apollo Link](https://www.apollographql.com/docs/link/) **[WIP]**
  - Data: [Apollo Client](https://www.apollographql.com/docs/react/) **[WIP]**
- - Testing: [Jest & Enzyme]() **[WIP]**
+ - Testing: [Jest](https://jestjs.io/) & [Enzyme](https://airbnb.io/projects/enzyme/) **[WIP]**
 
 ## Gaps
 Some aspects of my preferred stack change so much between projects that they have been intentionally left out. Here are some of my favorites:
