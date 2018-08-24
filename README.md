@@ -6,7 +6,7 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
  
  - Package Management: [Yarn](https://yarnpkg.com/en/)
  - Build: [Webpack](https://webpack.js.org/)
- - Code Style: [Prettier](https://github.com/prettier/prettier)
+ - Code Style: [Prettier](https://github.com/prettier/prettier) **[WIP]**
  - Front End: [React](https://reactjs.org/)
  - CSS: [Emotion](https://emotion.sh/)
  - State: [Apollo Link](https://www.apollographql.com/docs/link/) **[WIP]**
@@ -38,3 +38,8 @@ Running `yarn test` will run tests once and generate a coverage report. Intended
 Running `yarn test:dev` will start a dev server for test driven development (TDD). 
 ## Production [WIP]
 Running `yarn build` will generate the bundles for a production deployment
+
+## Contributinh
+Go [fork](https://help.github.com/articles/fork-a-repo/) yourself.
+
+Seriously though, I love opinions. Feel free to submit an issue if you want to discuss the stack, config or project structure.
