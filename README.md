@@ -16,7 +16,8 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
 ## Gaps
 Some aspects of my preferred stack change so much between projects that they have been intentionally left out. Here are some of my favorites:
 
- - UI: [Material-UI]()https://material-ui.com/, [Semantic UI](https://semantic-ui.com/)
+ - UI: [Material-UI](https://material-ui.com/), [Semantic UI](https://semantic-ui.com/)
+ - Icons: [Material Design Icons](https://materialdesignicons.com/)
 
 ## Setup
 Clone the repo, install dependencies, and start the project:
