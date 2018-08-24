@@ -33,13 +33,13 @@ Running `yarn start` will start a dev server  with the following features:
  - [Hot module replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)
 
 ## Testing [WIP]
-Running `yarn test` will run tests once and generate a coverage report. Intended to be used with CI.
+Running `yarn test` will run tests once and generate a coverage report. Intended to be used with continuous integration (CI).
 
-Running `yarn test:dev` will start a dev server for test driven development (TDD). 
+Running `yarn test:dev` will start a dev server for test-driven development (TDD). 
 ## Production [WIP]
 Running `yarn build` will generate the bundles for a production deployment
 
-## Contributinh
+## Contributing
 Go [fork](https://help.github.com/articles/fork-a-repo/) yourself.
 
 Seriously though, I love opinions. Feel free to submit an issue if you want to discuss the stack, config or project structure.
