@@ -2,13 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import styled from 'react-emotion'
 
-const rootElement = document.getElementById('root')
-const Title = styled('h1')`
-  color: red;
-`
+import App from './components/App'
 
-const App = () => {
-  return <Title>Hello Boilerplate!</Title>
-}
+const rootElement = document.getElementById('root')
 
 ReactDOM.render(<App />, rootElement)
