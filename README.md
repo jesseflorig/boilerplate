@@ -11,6 +11,7 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
  - CSS: [Emotion](https://emotion.sh/)
  - State: [Apollo Link](https://www.apollographql.com/docs/link/) **[WIP]**
  - Data: [Apollo Client](https://www.apollographql.com/docs/react/) **[WIP]**
+ - Routing: [React Router](https://reacttraining.com/react-router/) **[WIP]**
  - Testing: [Jest](https://jestjs.io/) & [Enzyme](https://airbnb.io/projects/enzyme/) **[WIP]**
 
 ## Gaps
