@@ -1,4 +1,4 @@
-# [WIP] Boilerplate
+# [WIP] 🍽 Boilerplate
 
 A **[WIP]** boilerplate for building web applications, but mostly something I set up once (pending) and leave to become perpetually stale. *Yay!*
 
@@ -6,7 +6,7 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
  
  - Package Management: [Yarn](https://yarnpkg.com/en/)
  - Build: [Webpack](https://webpack.js.org/)
- - Code Style: [Prettier](https://github.com/prettier/prettier) **[WIP]**
+ - Code Style: [Prettier](https://github.com/prettier/prettier) & [ESLint](https://eslint.org)
  - Front End: [React](https://reactjs.org/)
  - CSS: [Emotion](https://emotion.sh/)
  - State: [Apollo Link](https://www.apollographql.com/docs/link/) **[WIP]**
