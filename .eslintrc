@@ -1,0 +1,19 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": "airbnb",
+  "globals": {
+    "document": false
+  },
+  "parser": "babel-eslint",
+  "plugins" : [
+    "react"
+  ],
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/prop-types": [2, { ignore: ['children'] }],
+    "semi": ["error", "never"]
+  }
+}
