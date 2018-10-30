@@ -9,6 +9,7 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
  - Code Style: [Prettier](https://github.com/prettier/prettier) & [ESLint](https://eslint.org)
  - Front End: [React](https://reactjs.org/)
  - CSS: [Emotion](https://emotion.sh/)
+ - Theming: [Styled System](https://github.com/jxnblk/styled-system) **[WIP]**
  - State: [Apollo Link](https://www.apollographql.com/docs/link/) **[WIP]**
  - Data: [Apollo Client](https://www.apollographql.com/docs/react/) **[WIP]**
  - Routing: [React Router](https://reacttraining.com/react-router/) **[WIP]**
@@ -17,7 +18,7 @@ A **[WIP]** boilerplate for building web applications, but mostly something I se
 ## Gaps
 Some aspects of my preferred stack change so much between projects that they have been intentionally left out. Here are some of my favorites:
 
- - UI: [Material-UI](https://material-ui.com/), [Semantic UI](https://semantic-ui.com/)
+ - UI: [Rebass](https://rebassjs.org/), [Material-UI](https://material-ui.com/), [Semantic UI](https://semantic-ui.com/)
  - Icons: [Material Design Icons](https://materialdesignicons.com/)
 
 ## Prerequisites
